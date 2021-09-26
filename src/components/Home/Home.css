@@ -1,0 +1,9 @@
+.home-left{
+    width: 80%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+.home-right{
+    width: 20%;
+    color: mediumblue;
+}

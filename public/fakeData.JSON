@@ -1,0 +1,137 @@
+[
+    {
+      "name":"Jhankar Mahbub",
+      "img":"https://programming1.netlify.app/img/img-1.png",
+      "id":1,
+      "position":"Founder",
+      "age":38,
+      "country":"Bangladesh",
+      "salary":10000
+    },
+    {
+      "name":"Emdadul Hoque Tareque",
+      "img":"https://programming1.netlify.app/img/img-2.png",
+      "id":2,
+      "position":"Managing Director",
+      "age":31,
+      "country":"Bangladesh",
+      "salary":870
+    },
+    {
+      "name":"Rezaul Karim Hassan",
+      "img":"https://programming1.netlify.app/img/img-3.png",
+      "id":3,
+      "position":"Production Managing Director",
+      "age":32,
+      "country":"Bangladesh",
+      "salary":890
+    },
+    {
+      "name":"Rasel Ahmed",
+      "img":"https://programming1.netlify.app/img/img-4.png",
+      "id":4,
+      "position":"Apps Developer",
+      "age":30,
+      "country":"Bangladesh",
+      "salary":810
+    },
+    {
+      "name":"Solayman Shadin",
+      "img":"https://programming1.netlify.app/img/img-5.png",
+      "id":5,
+      "position":"Web Developer",
+      "age":28,
+      "country":"Bangladesh",
+      "salary":670
+    },
+    {
+      "name":"Muktadir Hassan",
+      "img":"https://programming1.netlify.app/img/img-6.png",
+      "id":6,
+      "position":"Web Developer",
+      "age":29,
+      "country":"Bangladesh",
+      "salary":700
+    },
+    {
+      "name":"Mohammad Anisul Islam",
+      "img":"https://programming1.netlify.app/img/img-7.png",
+      "id":7,
+      "position":"Web Developer",
+      "age":27,
+      "country":"Bangladesh",
+      "salary":880
+    },
+    {
+      "name":"Alamin Howlader",
+      "img":"https://programming1.netlify.app/img/img-8.png",
+      "id":8,
+      "position":"Web Developer",
+      "age":30,
+      "country":"Bangladesh",
+      "salary":790
+    },
+    {
+      "name":"Abu Sufian ",
+      "img":"https://programming1.netlify.app/img/img-9.png",
+      "id":9,
+      "position":"Web Developer",
+      "age":29,
+      "country":"Bangladesh",
+      "salary":690
+    },
+    {
+      "name":"Najmus Sakib",
+      "img":"https://programming1.netlify.app/img/img-10.png",
+      "id":10,
+      "position":"Web Developer",
+      "age":28,
+      "country":"Bangladesh",
+      "salary":650
+    },
+    {
+      "name":"Shahbaj Khan Toky",
+      "img":"https://programming1.netlify.app/img/img-11.png",
+      "id":11,
+      "position":"fuonder",
+      "age":25,
+      "country":"Bangladesh",
+      "salary":570
+    },
+    {
+      "name":"Tanvir Islam",
+      "img":"https://programming1.netlify.app/img/img-12.png",
+      "id":12,
+      "position":"Web Developer",
+      "age":27,
+      "country":"Bangladesh",
+      "salary":600
+    },
+    {
+      "name":"Rashad Tanjim Arnob",
+      "img":"https://programming1.netlify.app/img/img-13.png",
+      "id":13,
+      "position":"Web Developer",
+      "age":27,
+      "country":"Bangladesh",
+      "salary":550
+    },
+    {
+      "name":"Mujahid Islam",
+      "img":"https://programming1.netlify.app/img/img-14.png",
+      "id":14,
+      "position":"Web Developer",
+      "age":26,
+      "country":"Bangladesh",
+      "salary":800
+    },
+    {
+      "name":"Sakib Ahmed",
+      "img":"https://programming1.netlify.app/img/img-15.png",
+      "id":15,
+      "position":"Web Developer",
+      "age":25,
+      "country":"Bangladesh",
+      "salary":500
+    }
+  ]
